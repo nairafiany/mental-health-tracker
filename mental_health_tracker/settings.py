@@ -128,3 +128,4 @@ CSRF_TRUSTED_ORIGINS = ["http://localhost","http://127.0.0.1","http://naira-shaf
 
 PRODUCTION = os.getenv("PRODUCTION", False)
 DEBUG = not PRODUCTION
+# test
